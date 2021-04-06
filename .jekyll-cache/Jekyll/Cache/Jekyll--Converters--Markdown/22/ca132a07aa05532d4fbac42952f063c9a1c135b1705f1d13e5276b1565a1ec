@@ -1,9 +1,0 @@
-I"u<h3 id="привет-мир">Привет мир!</h3>
-
-<h4 id="или">или</h4>
-
-<figure class="highlight"><pre><code class="language-java" data-lang="java"> 
-        <span class="nc">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="s">"Hello world!"</span><span class="o">);</span></code></pre></figure>
-
-<p>Осмотрел программист творение своё и подумал: “Как-то не очень, но работает. Завтра допилю и контент добавлю…”</p>
-:ET
