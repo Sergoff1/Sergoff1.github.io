@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandex
+Allow: /
+Host: https://Sergoff1.github.io/
