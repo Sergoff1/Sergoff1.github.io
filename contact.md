@@ -6,7 +6,7 @@ title: Contacts
 <div id="contact">
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
-    <p class="intro">Если я по какой-то причине вам понадоблюсь, то вот мои координаты:</p>
+    <p class="intro">Данные для связи со мной:</p>
     <p></p>
     <ul>
 		<li>ВКонтакте: <a href="https://vk.com/{{ site.social.vkontakte }}">https://vk.com/Serzh189</a></li>
