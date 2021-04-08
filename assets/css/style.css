@@ -386,7 +386,7 @@ ul li a{color:white;text-decoration:none;display:block;padding:5px 2rem}.js .nav
 position:relative;right:2rem;-webkit-transition:all 0.2s ease-in-out;transition:all 0.2s ease-in-out}
 .nav-toggle:hover{color:white;background-color:#2e5e8b}.noList{list-style:none;padding-left:0;margin-left:0}
 dt{font-weight:bold}dd{margin:0 0 1.5rem}.post ul ul,.post ul ol,.post ol ul,.post ol ol{margin:0}.pageTitle{margin:2rem auto 1em;text-align:center}.content{padding-top:1em}
-.header{background-color:#2e5e8b;background-image:url("../img/touring.jpg");background-size:cover;background-position:center center;
+.header{background-color:#2e5e8b;background-size:cover;background-position:center center;
 color:white;padding:0;height:3em}.header .container{padding:0;max-width:100%;margin-left:auto;margin-right:auto}
 .header .container:after{content:" ";display:block;clear:both}
 .header h1{margin:0;float:left;padding-left:2rem;font-size:1em;line-height:3em;font-family:"Open Sans",Helvetica,Arial,sans-serif;font-weight:800;text-transform:uppercase}
