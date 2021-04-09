@@ -342,6 +342,9 @@ form .error input[type=text],form .error input[type=email],form .error input[typ
 table{width:100%;border:1px solid #d0d0d0;margin-bottom:1.5em}table caption{margin:0 0 7px;font-size:0.75em;color:#aaa;text-transform:uppercase;letter-spacing:1px}
 tr{border-bottom:1px solid #d0d0d0}tr:nth-child(even){background-color:#f7f7f7}td{padding:7px;border-right:1px solid #d0d0d0}td:last-child{border-right:0}
 th{background-color:#f7f7f7;border-bottom:1px solid #d0d0d0;border-right:1px solid #d0d0d0}th:last-child{border-right:0}
+
+.div{cursor: pointer;}
+
 .highlight{white-space:pre;overflow:auto;word-wrap:normal;
   -moz-border-radius:3px;border-color: #0550b359;
   -webkit-border-radius:3px;border-radius:3px;
